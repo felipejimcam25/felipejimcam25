@@ -50,5 +50,6 @@ A Web Developer and QA enthusiast from Costa Rica. I enjoy building clean interf
 
 
 </p>
-## 📩 Contact
+
+## 📩 Contact: 
 - Feel free to reach out: andreyfelipejimenezcampos@gmail.com
