@@ -16,35 +16,35 @@ A Web Developer and QA enthusiast from Costa Rica. I enjoy building clean interf
 
 ### **Frontend**
 <p>
-  <img src="https://cdn.simpleicons.org/html5/e5e5e5" width="40"/>
-  <img src="https://cdn.simpleicons.org/css/e5e5e5" width="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/e5e5e5" width="40"/>
-  <img src="https://cdn.simpleicons.org/react/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/html5/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/css/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/javascript/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/react/8B949E" width="40"/>
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://cdn.simpleicons.org/node.js/e5e5e5" width="40"/>
-  <img src="https://cdn.simpleicons.org/express/e5e5e5" width="40"/>
-  <img src="https://cdn.simpleicons.org/php/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/node.js/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/express/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/php/8B949E" width="40"/>
 </p>
 
 ### **Databases**
 <p>
-  <img src="https://cdn.simpleicons.org/mongodb/e5e5e5" width="40"/>
-  <img src="https://cdn.simpleicons.org/mysql/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/mysql/8B949E" width="40"/>
 </p>
 
 ### **QA**
 <p>
-    <img src="https://cdn.simpleicons.org/selenium/e5e5e5" width="40"/>
-  <img src="https://cdn.simpleicons.org/postman/e5e5e5" width="40"/>
+    <img src="https://cdn.simpleicons.org/selenium/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/postman/8B949E" width="40"/>
 </p>
 
 ### **Other**
 <p>
-  <img src="https://cdn.simpleicons.org/git/e5e5e5" width="40"/>
-  <img src="https://cdn.simpleicons.org/linux/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/git/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/linux/8B949E" width="40"/>
 
 
 
