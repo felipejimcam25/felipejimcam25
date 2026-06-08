@@ -2,8 +2,9 @@
 A Web Developer and QA enthusiast from Costa Rica. I enjoy building clean interfaces, creating efficient backend solutions, and solving problems through code and automation.
 
 ## 💡 What I’m Currently Working On
-- Learning Full-Stack Development (Node.js, Express, React, TypeScript, PHP, Laravel)
-- Improving my QA Automation skills (Postman, Selenium)
+- Experienced with HTML, CSS, JavaScript, React, Node.js, Express.js, PHP, Laravel, MySQL, and PostgreSQL.
+- Skilled in building responsive web applications, REST APIs, authentication systems, database integration, and version control with Git.
+- Additional experience with QA Testing, Postman, Cypress, Linux, Azure Fundamentals, and Technical Support.
 - Building personal projects to strengthen my portfolio
 
 ## 🏆 Achievements
