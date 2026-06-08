@@ -16,37 +16,36 @@ A Web Developer and QA enthusiast from Costa Rica. I enjoy building clean interf
 
 ### **Frontend**
 <p>
-  <img src="https://cdn.simpleicons.org/html5/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/css/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/react/white" width="40"/>
+  <img src="https://cdn.simpleicons.org/html5/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/css/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/javascript/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/react/e5e5e5" width="40"/>
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://cdn.simpleicons.org/node.js/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/express/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/php/white" width="40"/>
+  <img src="https://cdn.simpleicons.org/node.js/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/express/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/php/e5e5e5" width="40"/>
 </p>
 
 ### **Databases**
 <p>
-  <img src="https://cdn.simpleicons.org/mongodb/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/mysql/white" width="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/mysql/e5e5e5" width="40"/>
 </p>
 
 ### **QA**
 <p>
-    <img src="https://cdn.simpleicons.org/selenium/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/postman/white" width="40"/>
+    <img src="https://cdn.simpleicons.org/selenium/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/postman/e5e5e5" width="40"/>
 </p>
 
 ### **Other**
 <p>
-  <img src="https://cdn.simpleicons.org/git/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/linux/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/white" width="40"/>
-  <img src="https://cdn.simpleicons.org/powershell/white" width="40"/>
+  <img src="https://cdn.simpleicons.org/git/e5e5e5" width="40"/>
+  <img src="https://cdn.simpleicons.org/linux/e5e5e5" width="40"/>
+
 
 
 </p>
