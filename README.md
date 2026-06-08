@@ -27,17 +27,18 @@ A Web Developer and QA enthusiast from Costa Rica. I enjoy building clean interf
   <img src="https://cdn.simpleicons.org/node.js/8B949E" width="40"/>
   <img src="https://cdn.simpleicons.org/express/8B949E" width="40"/>
   <img src="https://cdn.simpleicons.org/php/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/laravel/8B949E" width="40"/>
 </p>
 
 ### **Databases**
 <p>
-  <img src="https://cdn.simpleicons.org/mongodb/8B949E" width="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql/8B949E" width="40"/>
   <img src="https://cdn.simpleicons.org/mysql/8B949E" width="40"/>
 </p>
 
 ### **QA**
 <p>
-    <img src="https://cdn.simpleicons.org/selenium/8B949E" width="40"/>
+    <img src="https://cdn.simpleicons.org/cypress/8B949E" width="40"/>
   <img src="https://cdn.simpleicons.org/postman/8B949E" width="40"/>
 </p>
 
@@ -45,9 +46,7 @@ A Web Developer and QA enthusiast from Costa Rica. I enjoy building clean interf
 <p>
   <img src="https://cdn.simpleicons.org/git/8B949E" width="40"/>
   <img src="https://cdn.simpleicons.org/linux/8B949E" width="40"/>
-
-
-
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/8B949E" width="40"/>
 </p>
 
 ## 📩 Contact 
