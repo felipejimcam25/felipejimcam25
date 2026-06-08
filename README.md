@@ -24,7 +24,7 @@ A Web Developer and QA enthusiast from Costa Rica. I enjoy building clean interf
 
 ### **Backend**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/white" width="40"/>
+  <img src="https://cdn.simpleicons.org/node.js/white" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40"/>
 </p>
